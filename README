@@ -1,0 +1,19 @@
+Traffic Intersection Control GUI README
+
+Developed by:
+Ryan Lane
+ryan@ryanalane.com
+@ryan_a_lane
+about.me/ryanalane
+
+This README was published September 23th, 2011.
+
+Language: Python 2.7
+Dependencies: Tkinter
+
+This application is a simple traffic control GUI developed as an honors contract for ASU Polytechnic's EGR 102 (Intro to Engineering Design II). The GUI, when run on the computer attached to hardware in the lab (interfaced through the isec module), allowed the operator to control a small traffic system (populated by RC cars). The GUI was developed according to general Human-Computer Interaction principles, as detailed in "EGR 102 Honors Contract Report.pdf".
+
+To use, simply run "traffic_gui.py" with "isec.py" in the same local directory.
+
+The isec module was developed by Dr. Darryl Morrell:
+http://www.public.asu.edu/~morrell/
